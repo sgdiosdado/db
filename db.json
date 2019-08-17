@@ -1,34 +1,36 @@
-const courses = [
-    {
-        id: 1,
-        title: "React - Rutas, APIs & Hooks",
-        image: "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-04/React%20Rutas%20peticiones%20hooks.png",
-        professor: "Beto Quiroga",
-        profile: "https://api.ed.team/files/avatars/38118146-4b4a-4844-8959-157614e04cd1.jpg",
-        price: 30,
-    },
-    {
-        id: 2,
-        title: "Infraestructura de Redes",
-        image: "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-03/Redes%20Infraestructura.png",
-        professor: "Paula León",
-        profile: "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-03/paula-leon_400x400.png",
-        price: 40,
-    },
-    {
-        id: 3,
-        title: "Java desde Cero (2019)",
-        image: "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/java%20desde%20cero.jpg",
-        professor: "Alexys Lozada",
-        profile: "https://api.ed.team/files/avatars/747dea4d-4438-4a7e-904a-427a5cd6aac7.jpg",
-        price: 20,
-    },
-    {
-        id: 4,
-        title: "POO con PHP",
-        image: "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2018-10/php%20POO.jpg",
-        profile: "https://api.ed.team/files/avatars/77b7035b-3025-408c-aea0-22f6386c428e.jpg",
-        professor: "Yesi Days",
-        price: 50,
-    }
-]
+{
+    "courses" : [
+        {
+            "id": 1,
+            "title": "React - Rutas, APIs & Hooks",
+            "image": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-04/React%20Rutas%20peticiones%20hooks.png",
+            "professor": "Beto Quiroga",
+            "profile": "https://api.ed.team/files/avatars/38118146-4b4a-4844-8959-157614e04cd1.jpg",
+            "price": 30,
+        },
+        {
+            "id": 2,
+            "title": "Infraestructura de Redes",
+            "image": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-03/Redes%20Infraestructura.png",
+            "professor": "Paula León",
+            "profile": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-03/paula-leon_400x400.png",
+            "price": 40,
+        },
+        {
+            "id": 3,
+            "title": "Java desde Cero (2019)",
+            "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/java%20desde%20cero.jpg",
+            "professor": "Alexys Lozada",
+            "profile": "https://api.ed.team/files/avatars/747dea4d-4438-4a7e-904a-427a5cd6aac7.jpg",
+            "price": 20,
+        },
+        {
+            "id": 4,
+            "title": "POO con PHP",
+            "image": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2018-10/php%20POO.jpg",
+            "professor": "Yesi Days",
+            "profile": "https://api.ed.team/files/avatars/77b7035b-3025-408c-aea0-22f6386c428e.jpg",
+            "price": 50,
+        }
+    ]
+}
